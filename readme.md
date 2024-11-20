@@ -19,12 +19,12 @@
 
 ## 16.1 List the possible causes of emergencies involving the gastrointestinal, genitourinary, and reproductive systems. 
 
-Emergencies involving the gastrointestinal (GI), genitourinary (GU), and reproductive systems can arise from various conditions, and understanding these causes is essential for effective assessment and response. Hereâ€™s a brief overview of possible causes:
+Emergencies involving the gastrointestinal (GI), genitourinary (GU), and reproductive systems can arise from various conditions, and understanding these causes is essential for effective assessment and response. Here’s a brief overview of possible causes:
 
 ### Gastrointestinal System Emergencies
 1. **Obstruction**: Blockages in the intestines (e.g., bowel obstruction, volvulus) can cause severe pain and vomiting.
 2. **Bleeding**: Upper GI bleeding (e.g., peptic ulcers, esophageal varices) and lower GI bleeding (e.g., diverticulosis, colorectal cancer) can lead to significant blood loss.
-3. **Inflammatory Conditions**: Appendicitis, pancreatitis, and inflammatory bowel disease (IBD) like Crohnâ€™s disease and ulcerative colitis.
+3. **Inflammatory Conditions**: Appendicitis, pancreatitis, and inflammatory bowel disease (IBD) like Crohn’s disease and ulcerative colitis.
 4. **Perforation**: Ruptures in the stomach or intestines, often due to ulcers or trauma, leading to peritonitis.
 5. **Infections**: Gastroenteritis, diverticulitis, or abscesses.
 
@@ -235,7 +235,7 @@ These symptoms can indicate serious conditions that may require immediate medica
 
 ## 16.5 Describe and demonstrate how to assess the abdomen.
 
-Assessing the abdomen is a crucial part of a physical examination, especially when there is a suspicion of abdominal pain or other gastrointestinal, genitourinary, or reproductive system issues. The assessment process typically involves **inspection, auscultation, percussion, and palpation**. Hereâ€™s how each step is performed:
+Assessing the abdomen is a crucial part of a physical examination, especially when there is a suspicion of abdominal pain or other gastrointestinal, genitourinary, or reproductive system issues. The assessment process typically involves **inspection, auscultation, percussion, and palpation**. Here’s how each step is performed:
 
 ### 1. **Inspection**
    - **Purpose**: To visually assess the abdomen for any abnormalities.
@@ -256,7 +256,7 @@ Assessing the abdomen is a crucial part of a physical examination, especially wh
 ### 3. **Percussion**
    - **Purpose**: To assess for **fluid, gas, or masses** and to determine the size of organs like the liver and spleen.
    - **Procedure**:
-     - Percuss each quadrant by placing your non-dominant hand on the abdomen and tapping it with your dominant handâ€™s fingers.
+     - Percuss each quadrant by placing your non-dominant hand on the abdomen and tapping it with your dominant hand’s fingers.
      - Listen for the sound:
        - **Tympany** (a hollow, drum-like sound) is normal over the intestines.
        - **Dullness** indicates the presence of a **solid organ** (like the liver), a **mass**, or **fluid** (like ascites).
@@ -282,7 +282,7 @@ Assessing the abdomen is a crucial part of a physical examination, especially wh
 When assessing the abdomen, remember to:
 1. Ensure **patient comfort and privacy**.
 2. Use a **gentle, systematic approach**, moving through each quadrant.
-3. Observe the **patientâ€™s facial expressions** for signs of pain or discomfort, especially during palpation.
+3. Observe the **patient’s facial expressions** for signs of pain or discomfort, especially during palpation.
 
 Proper technique and methodical assessment can provide valuable information about the underlying condition, guiding further diagnostics or interventions.
 
@@ -291,11 +291,11 @@ Proper technique and methodical assessment can provide valuable information abou
 ## 16.6 Describe and demonstrate the management of a patient with a gastrointestinal, genitourinary, or reproductive emergency.
 
 
-Management of emergencies involving the gastrointestinal (GI), genitourinary (GU), or reproductive systems requires a prompt and systematic approach. Hereâ€™s how to manage such cases, including key steps and interventions:
+Management of emergencies involving the gastrointestinal (GI), genitourinary (GU), or reproductive systems requires a prompt and systematic approach. Here’s how to manage such cases, including key steps and interventions:
 
 ### General Management Principles
 1. **Initial Assessment**:
-   - Follow the **ABCs** (Airway, Breathing, Circulation) to ensure the patientâ€™s vital functions are stable.
+   - Follow the **ABCs** (Airway, Breathing, Circulation) to ensure the patient’s vital functions are stable.
    - Obtain **vital signs** (heart rate, blood pressure, respiratory rate, oxygen saturation, and temperature).
    - Assess the patient's **level of consciousness** and general appearance (e.g., pallor, sweating, agitation).
    - Begin with a **focused history** using the **OPQRST** mnemonic:
@@ -375,24 +375,4 @@ Managing emergencies involving the GI, GU, and reproductive systems requires a *
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 16** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](abdomen anatomy and physiology.png)  <br>![additional_image](abdomen anatomy.png)  <br>![additional_image](abdominal life threatening.png)  <br>![additional_image](abdominal solid organs.png)  <br>![additional_image](abdominal.png)  <br>![additional_image](common abdominal illness.png)  <br>![additional_image](NSP_OEC_Training_Chapter_16.png)  <br>![additional_image](patient assessment abdominal.png)  <br>![additional_image](reproductive emergencies.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
